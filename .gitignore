@@ -1,0 +1,14 @@
+.idea/*
+*.log
+node_modules
+coverage
+.nyc_output
+coverage.lcov
+mochawesome-report/*
+dist/js/*
+dist-/*
+dist/ts/*
+snippet.js
+
+# Project exclude paths
+/examples/chapter01_02/typescript/hello-world.js
